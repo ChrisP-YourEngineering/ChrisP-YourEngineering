@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrisP-YourEngineering
 - 👀 I’m interested in all forms of programming and system control
 - 🌱 I’m currently learning STM32 Embedded Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything controls/IOT. Anything thats a challenge!
 - 📫 How to reach me chrisj.prentice@virginmedia.com or cathoderay2018@outlook.com
 
 <!---
